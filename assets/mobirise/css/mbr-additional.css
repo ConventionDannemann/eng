@@ -1440,7 +1440,7 @@ body {
 .cid-qI8DU5MowH {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/iceland-2608985-1921-1920x1200.jpg");
+  background-image: url("../../../assets/images/rio-de-janeiro-1534128-1920-1920x1271.jpg");
 }
 .cid-qI8DU5MowH .media-container-column {
   align-items: center;
@@ -1494,7 +1494,13 @@ body {
 }
 .cid-qI8DU5MowH .mbr-text {
   color: #cbaf74;
-  text-align: left;
+  text-align: center;
+}
+.cid-qI8DU5MowH H2 {
+  color: #ffffff;
+}
+.cid-qI8DU5MowH .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-qI8mmLTV5Q {
   padding-top: 30px;
